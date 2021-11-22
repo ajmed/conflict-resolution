@@ -1,4 +1,3 @@
 # Conflict Resolution!
 
-
-This conflict will end you!
+This will be a conflict, hahahaha!
